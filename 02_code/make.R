@@ -1,4 +1,4 @@
-# Generate Kate Champions extension to Gerber et al 2010
+# Generate Kate Champions extension to Gerber et al 2009
 
 # Set working directory ----
 #setwd("../econ280project")
